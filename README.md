@@ -33,8 +33,7 @@ Semi-Supervised Multispectral Scene Classification with Few Labels
     <ul>
         <li><a href="#train-a-model">Train a model</a></li>
         <li><a href="#evaluate-a-model">Evaluate a model</a></li>
-        <li><a href="#installation">Installation</a></li>
-        <li><a href="#set-up-datasets">Set-up datasets</a></li>
+      
       </ul>
     </li>
   </ol>
