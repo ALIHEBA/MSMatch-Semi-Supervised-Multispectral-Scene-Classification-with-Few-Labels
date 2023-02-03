@@ -38,9 +38,6 @@ Semi-Supervised Multispectral Scene Classification with Few Labels
         <li><a href="#set-up-datasets">Set-up datasets</a></li>
       </ul>
     </li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    
   </ol>
 </details>
 
