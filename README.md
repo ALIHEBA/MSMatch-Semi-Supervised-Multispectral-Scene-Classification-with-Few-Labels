@@ -79,7 +79,7 @@ We recommend using [conda](https://docs.conda.io/en/latest/) to set-up your envi
 1. Get [miniconda](https://docs.conda.io/en/latest/miniconda.html) or similar
 2. Clone the repo
    ```sh
-   git clone https://github.com/gomezzz/MSMatch.git
+   git clone ALIHEBA/MSMatch-Semi-Supervised-Multispectral-Scene-Classification-with-Few-Labels
    ```
 3. Setup the environment. This will create a conda environment called `torchmatch`
    ```sh
