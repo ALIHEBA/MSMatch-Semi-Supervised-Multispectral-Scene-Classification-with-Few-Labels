@@ -1,6 +1,5 @@
 # MSMatch-Semi-Supervised-Multispectral-Scene-Classification-with-Few-Labels
-Deep Learning Final Project
-
+CIT-690E: CIT (DL) Fall 2022 Final Project
 
 # MSMatch
 Semi-Supervised Multispectral Scene Classification with Few Labels
@@ -46,8 +45,8 @@ Semi-Supervised Multispectral Scene Classification with Few Labels
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This is the code for the paper *"MSMatch: Semi-Supervised Multispectral Scene Classification with Few Labels"* by Pablo Gómez and Gabriele Meoni, which aims to apply the state of the art of semi-supervised learning techniques to land-use and land-cover classification problems, we forked the project and replicate the work with additional sudies as our final deep learning project.
-Currently, the repository includes an implementation of [FixMatch](https://arxiv.org/abs/2001.07685) for the training of [EfficientNet](https://arxiv.org/abs/1905.11946) Convolutional Neural Networks. The code builds on and extends the [FixMatch-pytorch](https://github.com/LeeDoYup/FixMatch-pytorch) implementation based on [PyTorch](https://pytorch.org/). Compared to the original repository, this repository includes code to work with both the RGB and the multispectral (MS) versions of [EuroSAT](https://arxiv.org/abs/1709.00029) [dataset and LandCober.ai dataset.] (https://landcover.ai.linuxpolska.com/) 
+This is the code for our final project that was based on the paper *"MSMatch: Semi-Supervised Multispectral Scene Classification with Few Labels"* by Pablo Gómez and Gabriele Meoni, which aims to apply the state of the art of semi-supervised learning techniques to land-use and land-cover classification problems, we forked the project and replicate the work with additional sudies.
+Currently, the repository includes an implementation of [FixMatch](https://arxiv.org/abs/2001.07685) for the training of [EfficientNet](https://arxiv.org/abs/1905.11946) Convolutional Neural Networks. The code builds on and extends the [FixMatch-pytorch](https://github.com/LeeDoYup/FixMatch-pytorch) implementation based on [PyTorch](https://pytorch.org/). Compared to the original repository, this repository includes code to work with both the RGB and the multispectral (MS) versions of [EuroSAT](https://arxiv.org/abs/1709.00029) dataset and [LandCober.ai dataset.] (https://landcover.ai.linuxpolska.com/) 
 
 ### Built With
 
